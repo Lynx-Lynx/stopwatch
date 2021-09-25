@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stopwatch/static/css/main.fadefcbc.chunk.css",
+    "main.js": "/stopwatch/static/js/main.de04dedc.chunk.js",
+    "main.js.map": "/stopwatch/static/js/main.de04dedc.chunk.js.map",
+    "runtime-main.js": "/stopwatch/static/js/runtime-main.ecbf9e87.js",
+    "runtime-main.js.map": "/stopwatch/static/js/runtime-main.ecbf9e87.js.map",
+    "static/js/2.8891603e.chunk.js": "/stopwatch/static/js/2.8891603e.chunk.js",
+    "static/js/2.8891603e.chunk.js.map": "/stopwatch/static/js/2.8891603e.chunk.js.map",
+    "index.html": "/stopwatch/index.html",
+    "static/css/main.fadefcbc.chunk.css.map": "/stopwatch/static/css/main.fadefcbc.chunk.css.map",
+    "static/js/2.8891603e.chunk.js.LICENSE.txt": "/stopwatch/static/js/2.8891603e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/stopwatch/static/media/bg.594c2575.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecbf9e87.js",
+    "static/js/2.8891603e.chunk.js",
+    "static/css/main.fadefcbc.chunk.css",
+    "static/js/main.de04dedc.chunk.js"
+  ]
+}
